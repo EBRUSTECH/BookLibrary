@@ -1,0 +1,28 @@
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\LibraryManagementSystem.Core\bin\Debug\net8.0\LibraryManagementSystem.Core.deps.json
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\LibraryManagementSystem.Core\bin\Debug\net8.0\LibraryManagementSystem.Core.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\LibraryManagementSystem.Core\bin\Debug\net8.0\LibraryManagementSystem.Core.pdb
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.AssemblyInfo.cs
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\refint\LibraryManagementSystem.Core.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.pdb
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\ref\LibraryManagementSystem.Core.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\bin\Debug\net8.0\LibraryManagementSystem.Core.deps.json
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\bin\Debug\net8.0\LibraryManagementSystem.Core.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\bin\Debug\net8.0\LibraryManagementSystem.Core.pdb
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\bin\Debug\net8.0\LibraryManagementSystem.Domain.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\bin\Debug\net8.0\LibraryManagementSystem.Domain.pdb
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.AssemblyInfo.cs
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.sourcelink.json
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryM.CF2D0823.Up2Date
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\refint\LibraryManagementSystem.Core.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.pdb
+C:\Users\AFC\Desktop\new assessment\BookApp\LibraryManagementSystem.Core\obj\Debug\net8.0\ref\LibraryManagementSystem.Core.dll

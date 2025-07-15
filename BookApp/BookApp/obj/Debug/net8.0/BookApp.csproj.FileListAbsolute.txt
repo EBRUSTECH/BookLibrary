@@ -1,0 +1,202 @@
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\appsettings.json
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\BookApp.exe
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\BookApp.deps.json
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\BookApp.runtimeconfig.json
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\BookApp.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\BookApp.pdb
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Core.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Data.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Domain.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Infrastructure.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Domain.pdb
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Core.pdb
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Data.pdb
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Infrastructure.pdb
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\BookApp.csproj.AssemblyReference.cache
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\BookApp.AssemblyInfoInputs.cache
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\BookApp.AssemblyInfo.cs
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\BookApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\BookApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\staticwebassets\msbuild.BookApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BookApp.props
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookApp.props
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookApp.props
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\scopedcss\bundle\BookApp.styles.css
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\BookApp.csproj.CopyComplete
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\BookApp.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\refint\BookApp.dll
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\BookApp.pdb
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\BookApp.genruntimeconfig.cache
+C:\Users\DECAGON\OneDrive\Desktop\BookShopApp\BookApp\BookApp\obj\Debug\net8.0\ref\BookApp.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\BookApp.csproj.AssemblyReference.cache
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\BookApp.AssemblyInfoInputs.cache
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\BookApp.AssemblyInfo.cs
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\BookApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\BookApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\BookApp.sourcelink.json
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\BookApp.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\refint\BookApp.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\BookApp.pdb
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\appsettings.json
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\BookApp.staticwebassets.endpoints.json
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\BookApp.exe
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\BookApp.deps.json
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\BookApp.runtimeconfig.json
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\BookApp.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\BookApp.pdb
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Core.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Data.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Domain.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Infrastructure.dll
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Domain.pdb
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Core.pdb
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Data.pdb
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\bin\Debug\net8.0\LibraryManagementSystem.Infrastructure.pdb
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\scopedcss\bundle\BookApp.styles.css
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\staticwebassets\msbuild.BookApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\staticwebassets\msbuild.BookApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BookApp.props
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookApp.props
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookApp.props
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\BookApp.csproj.Up2Date
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\BookApp.genruntimeconfig.cache
+C:\Users\AFC\Desktop\new assessment\BookApp\BookApp\obj\Debug\net8.0\ref\BookApp.dll
