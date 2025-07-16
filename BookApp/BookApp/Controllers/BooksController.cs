@@ -18,7 +18,7 @@ namespace BookApp.Controllers
         public async Task<IActionResult> GetAll() => Ok(await _bookService.GetAllBooksAsync());
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetById(int id)
+        public async Task<IActionResult> GetById(string id)
         {
             var book = await _bookService.GetBookByIdAsync(id);
             return book == null ? NotFound() : Ok(book);
@@ -32,14 +32,14 @@ namespace BookApp.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, BookDTO dto)
+        public async Task<IActionResult> Update(string id, BookDTO dto)
         {
             var result = await _bookService.UpdateBookAsync(id, dto);
             return result ? NoContent() : NotFound();
         }
 
         [HttpDelete("{id}")]
-        public async Task<IActionResult> Delete(int id)
+        public async Task<IActionResult> Delete(string id)
         {
             var result = await _bookService.DeleteBookAsync(id);
             return result ? NoContent() : NotFound();

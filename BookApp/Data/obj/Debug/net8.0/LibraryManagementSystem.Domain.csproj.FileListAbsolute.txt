@@ -21,3 +21,15 @@ C:\Users\AFC\Desktop\new assessment\BookApp\Data\obj\Debug\net8.0\LibraryManagem
 C:\Users\AFC\Desktop\new assessment\BookApp\Data\obj\Debug\net8.0\refint\LibraryManagementSystem.Domain.dll
 C:\Users\AFC\Desktop\new assessment\BookApp\Data\obj\Debug\net8.0\LibraryManagementSystem.Domain.pdb
 C:\Users\AFC\Desktop\new assessment\BookApp\Data\obj\Debug\net8.0\ref\LibraryManagementSystem.Domain.dll
+C:\Users\DECAGON\OneDrive\Desktop\new assessment\BookApp\Data\bin\Debug\net8.0\LibraryManagementSystem.Domain.deps.json
+C:\Users\DECAGON\OneDrive\Desktop\new assessment\BookApp\Data\bin\Debug\net8.0\LibraryManagementSystem.Domain.dll
+C:\Users\DECAGON\OneDrive\Desktop\new assessment\BookApp\Data\bin\Debug\net8.0\LibraryManagementSystem.Domain.pdb
+C:\Users\DECAGON\OneDrive\Desktop\new assessment\BookApp\Data\obj\Debug\net8.0\LibraryManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\OneDrive\Desktop\new assessment\BookApp\Data\obj\Debug\net8.0\LibraryManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\DECAGON\OneDrive\Desktop\new assessment\BookApp\Data\obj\Debug\net8.0\LibraryManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\DECAGON\OneDrive\Desktop\new assessment\BookApp\Data\obj\Debug\net8.0\LibraryManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\OneDrive\Desktop\new assessment\BookApp\Data\obj\Debug\net8.0\LibraryManagementSystem.Domain.sourcelink.json
+C:\Users\DECAGON\OneDrive\Desktop\new assessment\BookApp\Data\obj\Debug\net8.0\LibraryManagementSystem.Domain.dll
+C:\Users\DECAGON\OneDrive\Desktop\new assessment\BookApp\Data\obj\Debug\net8.0\refint\LibraryManagementSystem.Domain.dll
+C:\Users\DECAGON\OneDrive\Desktop\new assessment\BookApp\Data\obj\Debug\net8.0\LibraryManagementSystem.Domain.pdb
+C:\Users\DECAGON\OneDrive\Desktop\new assessment\BookApp\Data\obj\Debug\net8.0\ref\LibraryManagementSystem.Domain.dll

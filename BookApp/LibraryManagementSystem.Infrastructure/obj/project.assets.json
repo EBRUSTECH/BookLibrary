@@ -1281,24 +1281,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AFC\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\DECAGON\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AFC\\Desktop\\new assessment\\BookApp\\LibraryManagementSystem.Infrastructure\\LibraryManagementSystem.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\DECAGON\\OneDrive\\Desktop\\new assessment\\BookApp\\LibraryManagementSystem.Infrastructure\\LibraryManagementSystem.Infrastructure.csproj",
       "projectName": "LibraryManagementSystem.Infrastructure",
-      "projectPath": "C:\\Users\\AFC\\Desktop\\new assessment\\BookApp\\LibraryManagementSystem.Infrastructure\\LibraryManagementSystem.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\AFC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AFC\\Desktop\\new assessment\\BookApp\\LibraryManagementSystem.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\DECAGON\\OneDrive\\Desktop\\new assessment\\BookApp\\LibraryManagementSystem.Infrastructure\\LibraryManagementSystem.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\DECAGON\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DECAGON\\OneDrive\\Desktop\\new assessment\\BookApp\\LibraryManagementSystem.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\AFC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\DECAGON\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1312,8 +1307,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\AFC\\Desktop\\new assessment\\BookApp\\LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj": {
-              "projectPath": "C:\\Users\\AFC\\Desktop\\new assessment\\BookApp\\LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj"
+            "C:\\Users\\DECAGON\\OneDrive\\Desktop\\new assessment\\BookApp\\LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj": {
+              "projectPath": "C:\\Users\\DECAGON\\OneDrive\\Desktop\\new assessment\\BookApp\\LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj"
             }
           }
         }
@@ -1322,13 +1317,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -1363,7 +1352,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

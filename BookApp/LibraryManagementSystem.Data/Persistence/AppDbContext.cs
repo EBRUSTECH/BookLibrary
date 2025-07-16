@@ -19,7 +19,7 @@ namespace LibraryManagementSystem.Data.Persistence
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Book>().HasData(
-                new Book { Id = 1, Title = "Clean Code", Author = "Robert C. Martin", ISBN = "9780132350884", PublishedDate = new DateTime(2008, 8, 1) }
+                new Book { Id = "1", Title = "Clean Code", Author = "Robert C. Martin", ISBN = "9780132350884", PublishedDate = new DateTime(2008, 8, 1) }
             );
         }
     }

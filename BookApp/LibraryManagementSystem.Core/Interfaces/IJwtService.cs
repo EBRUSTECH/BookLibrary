@@ -8,6 +8,6 @@ namespace LibraryManagementSystem.Core.Interfaces
 {
     public interface IJwtService
     {
-        string GenerateToken(int userId, string username);
+        string GenerateToken(string userId, string username);
     }
 }

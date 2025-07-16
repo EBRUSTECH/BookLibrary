@@ -16,11 +16,11 @@ namespace LibraryManagementSystem.Infrastructure.Services
         private readonly IConfiguration _config;
         public JwtService(IConfiguration config) => _config = config;
 
-        public string GenerateToken(int userId, string username)
+        public string GenerateToken(string userId, string username)
         {
             var claims = new[]
             {
-            new Claim(ClaimTypes.NameIdentifier, userId.ToString()),
+            new Claim(ClaimTypes.NameIdentifier, userId),
             new Claim(ClaimTypes.Name, username)
         };
 

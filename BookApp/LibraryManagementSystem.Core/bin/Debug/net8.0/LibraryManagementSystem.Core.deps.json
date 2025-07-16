@@ -93,10 +93,7 @@
       },
       "LibraryManagementSystem.Domain/1.0.0": {
         "runtime": {
-          "LibraryManagementSystem.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "LibraryManagementSystem.Domain.dll": {}
         }
       }
     }

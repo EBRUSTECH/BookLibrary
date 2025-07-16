@@ -12,6 +12,7 @@
           "LibraryManagementSystem.Core": "1.0.0",
           "LibraryManagementSystem.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.7",
+          "Microsoft.EntityFrameworkCore.Design": "9.0.7",
           "Microsoft.EntityFrameworkCore.InMemory": "9.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.7",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.7"
@@ -1053,18 +1054,12 @@
           "LibraryManagementSystem.Domain": "1.0.0"
         },
         "runtime": {
-          "LibraryManagementSystem.Core.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "LibraryManagementSystem.Core.dll": {}
         }
       },
       "LibraryManagementSystem.Domain/1.0.0": {
         "runtime": {
-          "LibraryManagementSystem.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "LibraryManagementSystem.Domain.dll": {}
         }
       }
     }
